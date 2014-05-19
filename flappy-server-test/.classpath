@@ -1,0 +1,27 @@
+<?xml version="1.0" 
+encoding="UTF-8"?>
+<!-- Windows -->
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/LooseCommunicationServer"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/eclipse/plugins/com.google.appengine.eclipse.sdkbundle_1.9.1/appengine-java-sdk-1.9.1/lib/impl/appengine-api.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/plugins/com.google.appengine.eclipse.sdkbundle_1.9.1/appengine-java-sdk-1.9.1/lib/impl/appengine-api-labs.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/plugins/com.google.appengine.eclipse.sdkbundle_1.9.1/appengine-java-sdk-1.9.1/lib/impl/appengine-api-stubs.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/plugins/com.google.appengine.eclipse.sdkbundle_1.9.1/appengine-java-sdk-1.9.1/lib/impl/appengine-local-runtime.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/plugins/com.google.appengine.eclipse.sdkbundle_1.9.1/appengine-java-sdk-1.9.1/lib/user/appengine-api-1.0-sdk-1.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/plugins/com.google.appengine.eclipse.sdkbundle_1.9.1/appengine-java-sdk-1.9.1/lib/user/appengine-api-labs-1.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/plugins/com.google.appengine.eclipse.sdkbundle_1.9.1/appengine-java-sdk-1.9.1/lib/user/appengine-jsr107cache-1.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/plugins/com.google.appengine.eclipse.sdkbundle_1.9.1/appengine-java-sdk-1.9.1/lib/user/jsr107cache-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/plugins/com.google.appengine.eclipse.sdkbundle_1.9.1/appengine-java-sdk-1.9.1/lib/opt/user/datanucleus/v2/asm-4.0.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/plugins/com.google.appengine.eclipse.sdkbundle_1.9.1/appengine-java-sdk-1.9.1/lib/opt/user/datanucleus/v2/datanucleus-api-jdo-3.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/plugins/com.google.appengine.eclipse.sdkbundle_1.9.1/appengine-java-sdk-1.9.1/lib/opt/user/datanucleus/v2/datanucleus-api-jpa-3.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/plugins/com.google.appengine.eclipse.sdkbundle_1.9.1/appengine-java-sdk-1.9.1/lib/opt/user/datanucleus/v2/datanucleus-appengine-2.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/plugins/com.google.appengine.eclipse.sdkbundle_1.9.1/appengine-java-sdk-1.9.1/lib/opt/user/datanucleus/v2/datanucleus-core-3.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/plugins/com.google.appengine.eclipse.sdkbundle_1.9.1/appengine-java-sdk-1.9.1/lib/opt/user/datanucleus/v2/geronimo-jpa_2.0_spec-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/plugins/com.google.appengine.eclipse.sdkbundle_1.9.1/appengine-java-sdk-1.9.1/lib/opt/user/datanucleus/v2/jdo-api-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/plugins/com.google.appengine.eclipse.sdkbundle_1.9.1/appengine-java-sdk-1.9.1/lib/opt/user/datanucleus/v2/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="/LooseCommunicationServer/war/WEB-INF/lib/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/plugins/com.google.appengine.eclipse.sdkbundle_1.9.1/appengine-java-sdk-1.9.1/lib/testing/appengine-testing.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

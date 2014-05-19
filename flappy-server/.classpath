@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- For Ubuntu -->
+<!-- 
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="com.google.appengine.eclipse.core.GAE_CONTAINER"/>
+	<classpathentry kind="con" path="com.google.gwt.eclipse.core.GWT_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Applications/eclipse/plugins/com.google.appengine.eclipse.sdkbundle_1.9.2/appengine-java-sdk-1.9.2/lib/impl/appengine-api.jar"/>
+	<classpathentry kind="lib" path="/Applications/eclipse/plugins/com.google.appengine.eclipse.sdkbundle_1.9.2/appengine-java-sdk-1.9.2/lib/impl/appengine-api-stubs.jar"/>
+	<classpathentry kind="lib" path="/Applications/eclipse/plugins/com.google.appengine.eclipse.sdkbundle_1.9.2/appengine-java-sdk-1.9.2/lib/impl/appengine-api-labs.jar"/>
+	<classpathentry kind="lib" path="/Applications/eclipse/plugins/com.google.appengine.eclipse.sdkbundle_1.9.2/appengine-java-sdk-1.9.2/lib/testing/appengine-testing.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/gcm-server.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/gson-2.2.2.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/junit-4.10.jar"/>
+	<classpathentry kind="output" path="war/WEB-INF/classes"/>
+</classpath>
+ -->
+<!-- For windows -->
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="com.google.appengine.eclipse.core.GAE_CONTAINER"/>
+	<classpathentry kind="con" path="com.google.gwt.eclipse.core.GWT_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/gcm-server.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/gson-2.2.2.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/plugins/com.google.appengine.eclipse.sdkbundle_1.9.1/appengine-java-sdk-1.9.1/lib/testing/appengine-testing.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/plugins/com.google.appengine.eclipse.sdkbundle_1.9.1/appengine-java-sdk-1.9.1/lib/impl/appengine-api.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/plugins/com.google.appengine.eclipse.sdkbundle_1.9.1/appengine-java-sdk-1.9.1/lib/impl/appengine-api-labs.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/plugins/com.google.appengine.eclipse.sdkbundle_1.9.1/appengine-java-sdk-1.9.1/lib/impl/appengine-api-stubs.jar"/>
+	<classpathentry kind="output" path="war/WEB-INF/classes"/>
+</classpath>
